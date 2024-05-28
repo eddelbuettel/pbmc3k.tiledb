@@ -1,3 +1,8 @@
+2023-11-09  Dirk Eddelbuettel  <edd@debian.org>
+
+	* DESCRIPTION(Version, Date): Release 0.0.3
+	* inst/raw-data/soco-pbmc3k.tar.gz: Updated using 1.5.0
+
 2023-01-23  Dirk Eddelbuettel  <edd@debian.org>
 
 	* DESCRIPTION(Version, Date): Release 0.0.2

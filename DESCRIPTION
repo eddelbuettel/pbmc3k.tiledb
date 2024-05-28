@@ -4,8 +4,8 @@ Title: TileDB SOMA 'pbmc3k' Data Set
 Description: TileDB Array data from the 'pbmc3k' 3k PBMCs data set released by '10x Genomics'
  and converted into a 'TileDB'-based 'Stack of Matrices, Annotated ("SOMA")' format by the
  'tiledbsoma' package. 
-Version: 0.0.2
-Date: 2023-01-23
+Version: 0.0.3
+Date: 2023-11-09
 Authors@R: c(
     person(given = "Dirk",
            family = "Eddelbuettel",
@@ -20,7 +20,7 @@ BugReports: https://github.com/single-cell-data/TileDB-SOMA/issues
 License: MIT + file LICENSE
 Encoding: UTF-8
 NeedsCompilation: no
-Packaged: 2023-01-24 00:48:32 UTC; edd
+Packaged: 2023-11-10 03:13:45 UTC; edd
 Author: Dirk Eddelbuettel [cre, aut] (<https://orcid.org/0000-0001-6419-907X>),
   TileDB, Inc. [cph, fnd]
 Maintainer: Dirk Eddelbuettel <dirk@tiledb.com>
